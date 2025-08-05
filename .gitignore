@@ -100,3 +100,8 @@ psdk-binaries/psdk.bat
 psdk-binaries/ruby-dist
 
 new-project.zip
+
+dist/
+psdk-binaries/
+
+src/views/components/index.ts
